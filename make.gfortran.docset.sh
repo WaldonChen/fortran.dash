@@ -31,6 +31,7 @@ echo "Uncompress document file"
 if [ -f "$HTML_FILE" ]; then
     mkdir -p ${DOC_DIR}
     tar xf ${HTML_FILE} -C $DOC_DIR --strip-components=1
+    cp icon.png icon@2x.png ${CONTENTS_DIR}/../
 else
     echo ${HTML_FILE} NOT exist!
     exit 1

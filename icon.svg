@@ -1,0 +1,19 @@
+<svg width="32px" height="32px" viewBox="408 123 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="33.179754%" cy="36.7515281%" fx="33.179754%" fy="36.7515281%" r="59.7957392%" id="radialGradient-1">
+            <stop stop-color="#EEEEEE" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0.6" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="F_ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(408.000000, 123.000000)">
+        <polygon id="Polygon" fill="#9012FE" points="16 0 29.8564065 8 29.8564065 24 16 32 2.14359354 24 2.14359354 8"></polygon>
+        <path d="M16,0 L29.8564065,8 C29.8564065,8 24.0243861,13.9774846 17.0994163,17.9756178 C10.1744464,21.973751 2.14359354,24 2.14359354,24 L2.14359354,8 L16,0 Z" id="Polygon-2" fill-opacity="0.5" fill="url(#radialGradient-1)" style="mix-blend-mode: lighten;"></path>
+        <g id="F" transform="translate(12.000000, 8.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-4" x="0" y="0" width="4" height="17"></rect>
+            <rect id="Rectangle-5" x="1" y="0" width="9" height="4"></rect>
+            <rect id="Rectangle-5" x="0" y="8" width="8" height="4"></rect>
+        </g>
+    </g>
+</svg>
